@@ -41,6 +41,9 @@ li:hover {
 
 
 @media (max-width: 767px) { 
+     .img-thumbnail {
+    height: 80px;
+    }
   .caja {
     background-image: url(./img/fondo.webp);
     background-repeat: no-repeat;
